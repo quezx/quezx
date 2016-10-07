@@ -1,5 +1,7 @@
 # QuezX.com
 
+[![Minio](https://img.stackshare.io/service/4485/gTawkyAA.png "Minio")](https://minio.io/)
+
 ### Hire 2x faster
 
 Access to 1000s of recruitment consultancies pan India reducing TAT
