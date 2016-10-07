@@ -1,6 +1,6 @@
 # QuezX.com
 
-[![Minio](https://img.stackshare.io/service/4485/gTawkyAA.png "Minio" =60x60)](https://minio.io/)
+[![Minio](https://img.stackshare.io/service/4485/gTawkyAA.png =60x60 "Minio")](https://minio.io/)
 
 ### Hire 2x faster
 
