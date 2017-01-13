@@ -1,6 +1,6 @@
 # QuezX.com
 
-[![Minio](https://img.stackshare.io/service/4485/gTawkyAA.png)](https://minio.io/)
+
 
 ### Hire 2x faster
 
@@ -25,3 +25,7 @@ No more email and Excel trackers. Manage your hiring through our intuitive ATS a
 ### Offline Support
 
 A dedicated accounts manager to help you with just about everything
+
+# Technology Stack
+
+[![Minio](https://img.stackshare.io/service/4485/gTawkyAA.png)](https://minio.io/)
